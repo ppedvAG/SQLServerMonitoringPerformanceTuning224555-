@@ -7,4 +7,10 @@
 ### Kostenschwellwert
 ### MAXDOP pro Abfrage und DB
 
+## DB Settings
+### Snapshotisolation
+### VLFs
+### Statistiken
+### Anfangsgrößen und Vergrößerungsraten
+
 
