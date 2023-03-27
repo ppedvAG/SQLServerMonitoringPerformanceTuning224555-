@@ -28,6 +28,12 @@
 ### Profiler
 ### QueryStore
 
+## Indizes
+#### Index Varianten
+### Pläne verstehen
+### idealen IY finden
+### Wartung
+
 
 
 
