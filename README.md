@@ -11,6 +11,24 @@
 ### Snapshotisolation
 ### VLFs
 ### Statistiken
-### Anfangsgrˆﬂen und Vergrˆﬂerungsraten
+### Anfangsgr√∂√üen und Vergr√∂√üerungsraten
+### Accelerated Database Recovery
+
+## Salamitaktik
+### part Sicht
+### Partitionierung
+
+## Monitoring
+### DMVS
+### os_wait_Stats
+### Aktivit√§tsmonitor
+
+## Messen
+### Perfmon
+### Profiler
+### QueryStore
+
+
+
 
 
